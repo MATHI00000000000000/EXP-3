@@ -46,6 +46,8 @@ Cross connection: CIRCUIT DIAGRAM:
 <img width="897" height="399" alt="image" src="https://github.com/user-attachments/assets/10a23865-b812-4962-a1e8-1a14ee20556f" />
 
 Tabulation:2
+
+
 <img width="890" height="1600" alt="image" src="https://github.com/user-attachments/assets/9245ed7c-f64f-4f33-8a0b-aae08dcb3011" />
 
 RESULT
